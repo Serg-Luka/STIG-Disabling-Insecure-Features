@@ -6,19 +6,19 @@ Once the scan highlights any insecure features, I’ll manually disable them thr
 
 # 🌟 Table of Contents 🌟
 
-- [🧰 Tools Used](#tools-used)
-- [1. 🔍 Configuring Compliance Scan](#configuring-compliance-scan)
-- [2. 📊 Analysing Scan Results](#analysing-scan-results)
-- [3. 🔐 Security Control WN10-SO-000010 Overview](#security-control-wn10-so-000010-overview)
+- [🧰 **Tools Used**](#tools-used)
+- [1. 🔍 **Configuring Compliance Scan**](#configuring-compliance-scan)
+- [2. 📊 **Analysing Scan Results**](#analysing-scan-results)
+- [3. 🔐 **Security Control WN10-SO-000010 Overview**](#security-control-wn10-so-000010-overview)
   - [3.1 Remediating WN10-SO-000010](#remediating-wn10-so-000010)
   - [3.2 Confirming WN10-SO-000010 Remediation](#confirming-wn10-so-000010-remediation)
-- [4. 📁 Security Control WN10-CC-000190 Overview](#security-control-wn10-cc-000190-overview)
+- [4. 📁 **Security Control WN10-CC-000190 Overview**](#security-control-wn10-cc-000190-overview)
   - [4.1 Remediating WN10-CC-000190](#remediating-wn10-cc-000190)
   - [4.2 Confirming WN10-CC-000190 Remediation](#confirming-wn10-cc-000190-remediation)
-- [5. 🔑 Security Control WN10-CC-000040 Overview](#security-control-wn10-cc-000040-overview)
+- [5. 🔑 **Security Control WN10-CC-000040 Overview**](#security-control-wn10-cc-000040-overview)
   - [5.1 Remediating WN10-CC-000040](#remediating-wn10-cc-000040)
   - [5.2 Confirming WN10-CC-000040 Remediation](#confirming-wn10-cc-000040-remediation)
-- [6. 🏁 Lab Conclusion and Lessons Learned](#lab-conclusion-and-lessons-learned)
+- [6. 🏁 **Lab Conclusion and Lessons Learned**](#lab-conclusion-and-lessons-learned)
   - [6.1 Conclusion](#conclusion)
   - [6.2 Lessons Learned](#lessons-learned)
 
